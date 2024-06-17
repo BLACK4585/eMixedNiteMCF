@@ -1,14 +1,14 @@
-ThemeApiVersion: 2.4.0
+ThemeApiVersion: 2.6.0
 Id: eMixedNiteMCF_29bed852-594f-43dd-ab15-6f98cebda6e5
 Name: eMixedNiteMC
 Author: eminaguil & MCC321 & BLACK4585
 Version: 3.5
 Links:
-  - Name: Github
-    Url: https://github.com/BLACK4585/eMixedNiteMCF
-  - Name: Wiki
-    Url: https://github.com/BLACK4585/eMixedNiteMCF/wiki
-  - Name: Forum
-    Url: https://playnite.link/forum/thread-801.html
-  - Name: Translate
-    Url: https://crowdin.com/project/emixednitemc
+- Name: Github
+  Url: https://github.com/BLACK4585/eMixedNiteMCF
+- Name: Wiki
+  Url: https://github.com/BLACK4585/eMixedNiteMCF/wiki
+- Name: Forum
+  Url: https://playnite.link/forum/thread-801.html
+- Name: Translate
+  Url: https://crowdin.com/project/emixednitemc
